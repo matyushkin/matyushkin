@@ -5,7 +5,6 @@
 
 ### 📫 To contact me, use any convenient network: 
 * Facebook: [facebook.com/leva.matyushkin](https://www.facebook.com/leva.matyushkin)
-* Twitter: [twitter.com/matyushkin](https://twitter.com/matyushkin)
 * Instagram: [instagram.com/matyushkin](https://twitter.com/matyushkin)
 * Telegram: [t.me/bythi](https://t.me/bythi)
 * LinkedIn: [linkedin.com/in/levamatyushkin](https://www.linkedin.com/in/levamatyushkin/)
