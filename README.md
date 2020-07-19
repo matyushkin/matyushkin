@@ -2,9 +2,8 @@
 
 🔭 I’m currently working on IT Events aggregator project and [research of people's first memories](https://github.com/matyushkin/reminiscence). 👯 I’m looking to collaborate on processing a platform for electronic and paper self-made zine-type journals.
 
-📫 [How to reach me](https://matyushkin.github.io/links/).
 
-### To contact me, use any convenient network: 
+### 📫 To contact me, use any convenient network: 
 * Facebook: [facebook.com/leva.matyushkin](https://www.facebook.com/leva.matyushkin)
 * Twitter: [twitter.com/matyushkin](https://twitter.com/matyushkin)
 * Instagram: [instagram.com/matyushkin](https://twitter.com/matyushkin)
@@ -14,3 +13,4 @@
 * Habr: [habr.com/ru/users/leomat](https://habr.com/ru/users/leomat/)
 * DevPost: [devpost.com/matyushkin](https://devpost.com/matyushkin)
 * ResearchGate: [researchgate.net/profile/Lev_Matyushkin](https://www.researchgate.net/profile/Lev_Matyushkin)
+* [Other links...](https://matyushkin.github.io/links/).
