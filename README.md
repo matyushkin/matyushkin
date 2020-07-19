@@ -4,7 +4,7 @@
 
 📫 [How to reach me](https://matyushkin.github.io/links/).
 
-### My contacts: 
+### To contact me, use any convenient network: 
 * Facebook: [facebook.com/leva.matyushkin](https://www.facebook.com/leva.matyushkin)
 * Twitter: [twitter.com/matyushkin](https://twitter.com/matyushkin)
 * Instagram: [instagram.com/matyushkin](https://twitter.com/matyushkin)
