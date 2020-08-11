@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on IT Events aggregator project and [research of people's first memories](https://github.com/matyushkin/reminiscence). 👯 I’m looking to collaborate on processing a platform for electronic and paper self-made zine-type journals.
+🔭 I’m currently working on [IT Events aggregator](https://matyushkin.github.io/events/) and [research of people's first memories](https://github.com/matyushkin/reminiscence). 👯 I’m also looking to collaborate on processing a platform for electronic and paper self-made zine-type journals.
 
 
 ### 📫 Contacts: 
