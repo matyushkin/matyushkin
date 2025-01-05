@@ -1,6 +1,7 @@
 ### 📫 Contacts: 
 * Facebook: [facebook.com/leva.matyushkin](https://www.facebook.com/leva.matyushkin)
-* Instagram: [instagram.com/matyushkin](https://twitter.com/matyushkin)
+* Instagram: [instagram.com/matyushkin](https://instagram.com/matyushkin)
+* Twitter: [twitter.com/matyushkin](https://twitter.com/matyushkin)
 * Telegram: [t.me/matyushkin_chat](https://t.me/matyushkin_chat)
 * LinkedIn: [linkedin.com/in/levamatyushkin](https://www.linkedin.com/in/levamatyushkin/)
 * VK: [vk.com/matyushkin](https://vk.com/matyushkin)
